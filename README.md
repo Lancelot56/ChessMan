@@ -31,14 +31,15 @@ source env/bin/activate
 . . .
 Install the python dependencies to the virtual environment
 pip install -r requirements.txt
-PEP8 Audit report
 
+PEP8 Audit report
 Use Spyder 4 Code analysis or see Code_analysis _report.pdf
 
 LAUNCH
 Run
 python main.py
+
 	1. Launch main will generate automatically 8 players for a tournament
 	2. Launch 6 at option menu will generate pairs according to Swiss Sytem 
 	3. When the round is finished, enter the results. 
-  4. Repeat steps 3 for subsequent rounds until the message 'the winner is…' appears.
+  	4. Repeat steps 3 for subsequent rounds until the message 'the winner is…' appears.
