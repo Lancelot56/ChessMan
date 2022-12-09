@@ -1,9 +1,9 @@
 # Chess Tournament Manager - Swiss Pairing System
 
-Programmation orientée objet
-Implémentation d'un système MVC
-Méthode d'appariement des joueurs selon la méthode suisse
-Conforme aux recommandations de la PEP8
+	Programmation orientée objet.
+	Implémentation d'un système MVC.
+	Méthode d'appariement des joueurs selon la méthode suisse.
+	Conforme aux recommandations de la PEP8.
 
 OVERVIEW
 Beta version of a chess tournament manager (Swiss system). 
